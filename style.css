@@ -1,0 +1,76 @@
+html, body {
+  height: 100%;
+  width: 100%;
+}
+
+body {
+  background-color: #464F5C;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+  display-align: center;
+}
+
+  li {
+    display: inline-block;
+  }
+
+.logo-image {
+  text-align: center;
+}
+
+
+.box {
+  display: inline-block;
+}
+
+.text-box {
+  width: 37%;
+  color: white;
+  vertical-align:top;
+}
+ 
+
+.box {
+  display: inline-block;
+}
+
+.center-box {
+  text-align: center;
+}
+
+.middle-box {
+  text-align: center;
+}
+
+.right-box {
+  text-align:center;
+}
+
+.house{
+  text-align:right;
+}
+
+.ligma {
+  margin: 45px;
+  font-size: 50px;
+}
+
+.logo2-image {
+  text-align: center;
+}
+
+.inline-text {
+
+  font-size: 60px;
+}
+
+.sugma {
+font-size: 30px;
+  margin: 5px;
+  
+}
